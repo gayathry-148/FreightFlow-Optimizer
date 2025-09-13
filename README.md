@@ -1,7 +1,5 @@
 # FreightFlow-Optimizer 🚚
 
-# Shipping Routes and Cost Analysis Case Study 🚚
-
 This repository contains the code, data, and analysis for a case study on optimizing shipping logistics and supply chain routes. The goal of this project was to analyze shipping data to satisfy operational constraints while minimizing freight and warehousing costs.
 
 This project was developed using **Google Cloud Platform (GCP)**, leveraging services like Google Cloud Storage (GCS), Dataflow, BigQuery, and Looker Studio to build an end-to-end data analysis pipeline.
@@ -42,7 +40,7 @@ To replicate this analysis, follow these steps:
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [https://github.com/your-username/shipping-logistics-analysis.git](https://github.com/your-username/shipping-logistics-analysis.git)
+    git clone [https://github.com/gayathry-148/FreightFlow-Optimizer.git](https://github.com/gayathry-148/FreightFlow-Optimizer.git)
     ```
 2.  **Set up GCP:**
     * Create a new GCP project.
@@ -72,4 +70,5 @@ The analysis of 13 SQL queries yielded several key insights into the shipping op
 * **Customer Behavior**: A small group of top-tier customers accounts for a large volume of repeat orders, with the leading customer placing 976 orders.
 
 For a detailed breakdown of each query and its findings, please see the full case study in the `/report` directory.
-For a detailed breakdown of each query and its findings, please see the full case study in the `/report` directory.
+
+
