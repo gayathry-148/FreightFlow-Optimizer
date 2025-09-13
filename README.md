@@ -1,4 +1,4 @@
-# FreightFlow-Optimizer 🚚
+# FreightFlow Optimizer 🚚
 
 This repository contains the code, data, and analysis for a case study on optimizing shipping logistics and supply chain routes. The goal of this project was to analyze shipping data to satisfy operational constraints while minimizing freight and warehousing costs.
 
