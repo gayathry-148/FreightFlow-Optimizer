@@ -16,7 +16,7 @@ The entire workflow was orchestrated on GCP to handle large-scale data processin
 * **BI & Visualization:** **Looker Studio** was connected to BigQuery to create interactive dashboards and visualize the findings.
 
 ### Project Flowchart
-![Methodology Flowchart](assets/methodology_flowchart.png)
+![Methodology Flowchart](assets/methology_flowchat.jpg)
 
 ---
 
