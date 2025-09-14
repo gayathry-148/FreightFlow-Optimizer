@@ -1,0 +1,1 @@
+This flowchart outlines the end-to-end process of setting up data analysis and visualization using Google Cloud services. It covers project creation, API and IAM configuration, data storage in GCS, querying with BigQuery, and dashboarding via Looker Studio.
